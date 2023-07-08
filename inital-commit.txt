@@ -1,1 +1,2 @@
 our first commit in git
+coding in vscode then drag drop in github
